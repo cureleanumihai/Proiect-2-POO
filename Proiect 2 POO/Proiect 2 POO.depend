@@ -63,3 +63,68 @@
 1574724709 source:c:\users\user\documents\c facultate\proiect 2 poo\src\adresa.cpp
 	"adresa.h"
 
+1574800606 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\main.cpp
+	<iostream>
+	<text.h>
+	<informatii.h>
+	<numeric.h>
+	<text.h>
+	<biblioteca.h>
+	<adresa.h>
+	<cassert>
+
+1574799267 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\text.h
+	<iostream>
+	<cstring>
+	<informatii.h>
+
+1574799267 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\informatii.h
+	<iostream>
+	<stdexcept>
+
+1574799267 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\numeric.h
+	<iostream>
+	<cstring>
+	<informatii.h>
+
+1574800580 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\biblioteca.h
+	<iostream>
+	"informatii.h"
+	"text.h"
+	"numeric.h"
+	"matematic.h"
+	"adresa.h"
+	<vector>
+
+1574799359 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\matematic.h
+	<iostream>
+	<cstring>
+	<informatii.h>
+
+1574799267 c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\include\adresa.h
+	<iostream>
+	<cstring>
+	<informatii.h>
+
+1574724709 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\adresa.cpp
+	"adresa.h"
+
+1574712494 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\informatii.cpp
+	"informatii.h"
+
+1574796904 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\matematic.cpp
+	"matematic.h"
+
+1574799267 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\numeric.cpp
+	"numeric.h"
+
+1574723623 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\text.cpp
+	"text.h"
+
+1574882851 source:c:\users\user\documents\github\proiect-2-poo\proiect 2 poo\src\biblioteca.cpp
+	"biblioteca.h"
+	<cstring>
+	<cstdlib>
+	<vector>
+	<typeinfo>
+

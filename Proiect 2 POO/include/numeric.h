@@ -17,9 +17,15 @@ class numeric:public informatii
         friend istream & operator>>(istream &in,numeric &a);
         friend ostream & operator<<(ostream &out,numeric &a);
         string getnume();
-        int getnr();
+        void setre(int re){}
+        void setim(int im){}
+        void setsir(string sir){}
+        void setnumar(int numar){nr=numar;}
+        int getre(){}
+        int getim(){}
+        int getnumar(){return nr;}
+        string getsir(){}
         void setnume(string nume);
-        void setnumar(int nr);
         friend class biblioteca;
 
 };

@@ -19,6 +19,14 @@ class text:public informatii
         friend istream & operator>>(istream &in,text &a);
         friend ostream & operator<<(ostream &out,text &a);
         string getnume();
+        void setre(int re){}
+        void setim(int im){}
+        void setsir(string sir){this->sir=sir;}
+        void setnumar(int numar){}
+        int getre(){}
+        int getim(){}
+        int getnumar(){}
+        string getsir(){return sir;}
         void setnume(string nume);
         friend class biblioteca;
 };

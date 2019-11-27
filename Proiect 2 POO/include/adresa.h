@@ -20,6 +20,14 @@ class adresa:public informatii
         friend istream & operator>>(istream &in,adresa &a);
         friend ostream & operator<<(ostream &out,adresa &a);
         string getnume();
+        void setre(int re){}
+        void setim(int im){}
+        void setsir(string sir){}
+        void setnumar(int numar){}
+        int getre(){}
+        int getim(){}
+        int getnumar(){}
+        string getsir(){}
         void setnume(string nume);
         friend class biblioteca;
 };

@@ -19,7 +19,7 @@ class biblioteca
         void adaugare();
         void stergere(int n);
         void regasire(int n);
-        void cautare();
+        void cautare(int n);
 };
 
 #endif // BIBLIOTECA_H

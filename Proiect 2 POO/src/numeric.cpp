@@ -10,15 +10,8 @@ ostream  &operator<<(ostream &out,numeric &a)
 string numeric::getnume()
 { return nume;
 }
-int numeric::getnr()
-{ return nr;
-}
 void numeric::setnume(string nume)
 { this->nume=nume;
-}
-void numeric::setnumar(int nr)
-{  this->nr=nr;
-
 }
 numeric::~numeric()
 { nr=NULL;

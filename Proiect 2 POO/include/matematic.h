@@ -28,6 +28,14 @@ class matematic:public informatii
         friend istream & operator>>(istream &in,matematic &a);
         friend ostream & operator<<(ostream &out,matematic &a);
         string getnume();
+        void setre(int re){this->re=re;}
+        void setim(int im){this->im=im;}
+        void setsir(string sir){}
+        void setnumar(int numar){}
+        int getre(){return re;}
+        int getim(){return im;}
+        int getnumar(){}
+        string getsir(){}
         void setnume(string nume);
         friend class biblioteca;
 
